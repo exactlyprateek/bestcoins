@@ -78,26 +78,26 @@ class CoinList extends Component {
 						<div className="col-sm-12 col-md-3 col-lg-3 align-self-center">
 							<div className="box">
                             <div className="title">{coin1.name}</div> 
-								<div className="body">{coin1_price.usd} USD</div> 
+								<div className="body">{coin1_price.usd} $</div> 
 								
 							</div>
 						</div>
 						<div className="col-sm-12 col-md-3 col-lg-3 align-self-center">
 							<div className="box">
                             <div className="title">{coin2.name}</div> 
-								<div className="body">{coin2_price.usd} USD</div> 
+								<div className="body">{coin2_price.usd} $</div> 
 							</div>
 						</div>
 						<div className="col-sm-12 col-md-3 col-lg-3 align-self-center">
 							<div className="box">
                             <div className="title">{coin3.name}</div> 
-								<div className="body">{coin3_price.usd} USD</div> 
+								<div className="body">{coin3_price.usd} $</div> 
 							</div>
 						</div>
 						<div className="col-sm-12 col-md-3 col-lg-3 align-self-center">
 							<div className="box">
 								<div className="title">{coin4.name}</div> 
-								<div className="body">{coin4_price.usd} USD</div>  
+								<div className="body">{coin4_price.usd} $</div>  
 							</div>
 						</div>
 					</div>
